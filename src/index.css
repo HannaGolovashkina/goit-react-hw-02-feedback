@@ -3,14 +3,14 @@
 :root {
   --main-text-color: #000000;
   --second-text-color: #ffffff;
-  --accent-text-color: #008000;
+  --accent-text-color: #12508e;
 
   --main-bg-color: #ffffff;
   --second-bg-color: #000000;
-  --accent-bg-color: #008000;
+  --accent-bg-color: #12508e;
 
   --notification-message: #cccccc;
-  --notification-message-green: rgba(0, 128, 0, 0.2);
+  --notification-message-blue: rgba(18, 44, 147, 0.398);
   --notification-message-red: rgba(255, 0, 0, 0.2);
 
   --main-animation-hover: 250ms linear;
